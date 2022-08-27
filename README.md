@@ -10,7 +10,7 @@ man page : http://manpages.ubuntu.com/manpages/bionic/man3/getline.3.html
 For separating the multiple words (in case of multiple commands or command with multiple arguments) from the input line, strsep() function is used.
 man page : http://manpages.ubuntu.com/manpages/bionic/man3/strsep.3.html
 
- To execute the commands with a new process, fork, exec and wait system calls are used.
+To execute the commands with a new process, fork, exec and wait system calls are used.
  
 chdir() is used to implement the change directory command like cd <dir_path> and cd .. 
 man page : http://manpages.ubuntu.com/manpages/bionic/man2/chdir.2.html
